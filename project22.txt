@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>LUCKY COMMUNICATIONS</h1>
+<p>Suvarnapuram Village, Mudigonda Mandal, Khammam District.</p>
+
+</body>
+</html>
